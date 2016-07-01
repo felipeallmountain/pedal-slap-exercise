@@ -1,0 +1,14 @@
+
+.idea/modules.xml
+
+.idea/pedal-slap-exercise.iml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
+
+node_modules/
+
+new-prj-nyg/npm-debug.log
+
+*.log

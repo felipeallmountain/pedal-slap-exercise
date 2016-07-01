@@ -1,0 +1,23 @@
+{
+  "name": "new-prj-nyg",
+  "version": "1.0.0",
+  "description": "new nyg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeallmountain/pedal-slap-exercise.git"
+  },
+  "author": "Felipe Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeallmountain/pedal-slap-exercise/issues"
+  },
+  "homepage": "https://github.com/felipeallmountain/pedal-slap-exercise#readme",
+  "devDependencies": {
+    "nyg": "^2.1.0",
+    "nyg-jam3": "^1.3.9"
+  }
+}
